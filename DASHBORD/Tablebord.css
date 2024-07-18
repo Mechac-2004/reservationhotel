@@ -1,0 +1,128 @@
+section
+{
+    box-shadow: 3px 3px 3px 3px gray, -3px 3px 3px 3px gray;
+}
+header , footer
+{
+    background-color: rgb(230, 210, 227);
+    padding-bottom: 1px;
+    padding-top: 1px;
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+section
+{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.section
+{
+    display: flex;
+}
+aside
+{
+    width: 25%;
+    background-color: rgba(223, 240, 243, 0.61);
+    padding: 15px;
+    margin-right: 5px;
+}
+.bro
+{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Lucida Calligraphy', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 15px;
+    font-weight: bolder;
+    padding-right: 15px;
+}
+.bro:hover
+{
+    background-color: rgb(139,236,236);
+}
+.sous:hover
+{
+    background-color: rgb(139,236,236);
+}
+.lien
+{
+    text-decoration: none;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+.get
+{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-left: 15px;
+    font-weight: bolder;
+    padding-right: 15px;
+}
+.get:hover
+{
+    background-color: rgb(139,236,236);
+}
+.got
+{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    font-weight: bolder;
+}
+article
+{
+    margin-left: 5px;
+    width: 75%;
+    padding: 15px;
+}
+.li
+{
+    display: flex;
+    margin-top: 15px;
+}
+.stat1
+{
+    width: 50%;
+    border: 2px solid green;
+    background-color: rgb(180, 179, 179);
+    margin-right: 5px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 15px;
+}
+.stat2
+{
+    width: 50%;
+    border: 2px solid green;
+    background-color: rgb(180, 179, 179);
+    margin-left: 5px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 15px;
+}
+.text1
+{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.text2
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+}
